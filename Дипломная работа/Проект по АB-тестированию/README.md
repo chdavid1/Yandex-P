@@ -35,4 +35,4 @@
 Датасет participants — таблица участников тестов. Хранит в себе идентификатор пользователя, название теста и группу пользователя.
 
 # Использованные библиотеки
-_Pandas,matplotlib,seaborn,plotly,scipy,numpy_
+_Pandas, matplotlib, seaborn, plotly, scipy, numpy_
